@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+hey uhhhhhhhh i need to work on this lmao
+
 <!--
 **itsrotech/itsrotech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
